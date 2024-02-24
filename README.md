@@ -30,7 +30,9 @@ Berikut hasilnya:
 
 ### Fitur Filter
 Fitur ini saya membuatkan agar user mempermudah kembali untuk mencari kategori, dan juga sorting.
+
 <img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/1643a81c-15c6-45f1-a24a-297b413dea18" width="200" height="420">
+
 
 - Filter Harga termurah ke termahal
 <img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/ba56c70f-42cf-4a00-a921-bc08117b6f63" width="200" height="420">
