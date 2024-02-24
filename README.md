@@ -30,22 +30,27 @@ Berikut hasilnya:
 
 ### Fitur Filter
 Fitur ini saya membuatkan agar user mempermudah kembali untuk mencari kategori, dan juga sorting.
-![WhatsApp Image 2024-02-24 at 18 02 13_1121c816](https://github.com/agamandika99/mdc_100_series/assets/117974350/1643a81c-15c6-45f1-a24a-297b413dea18)
+<img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/1643a81c-15c6-45f1-a24a-297b413dea18" width="200" height="420">
 
 - Filter Harga termurah ke termahal
-(https://github.com/agamandika99/mdc_100_series/assets/117974350/ba56c70f-42cf-4a00-a921-bc08117b6f63)
+<img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/ba56c70f-42cf-4a00-a921-bc08117b6f63" width="200" height="420">
+
 - Filter Harga termahal ke termurah
-(https://github.com/agamandika99/mdc_100_series/assets/117974350/9d2dc7e2-b167-4500-9666-75da55a83b15)
+<img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/9d2dc7e2-b167-4500-9666-75da55a83b15" width="200" height="420">
+
 - Filter Kategori Accessories
-(https://github.com/agamandika99/mdc_100_series/assets/117974350/4d2abe4e-3626-4b36-bdca-41bd2367f313)
+<img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/4d2abe4e-3626-4b36-bdca-41bd2367f313" width="200" height="420">
+
 - Filter Kategori Clothing
-(https://github.com/agamandika99/mdc_100_series/assets/117974350/201ae0e4-11b8-41e3-ac8d-3466245b21ff)
+<img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/201ae0e4-11b8-41e3-ac8d-3466245b21ff" width="200" height="420">
+
 - Filter Kategori Home
-(https://github.com/agamandika99/mdc_100_series/assets/117974350/b3b14e5e-5fb1-42c4-80bf-ed8f81247f56)
+<img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/b3b14e5e-5fb1-42c4-80bf-ed8f81247f56" width="200" height="420">
+
 - Filter Kategori Show All
-(https://github.com/agamandika99/mdc_100_series/assets/117974350/273cce17-06d5-46fc-b454-e131ee4aa867)
+<img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/273cce17-06d5-46fc-b454-e131ee4aa867" width="200" height="420">
 
 ### Fitur Profile
 Pada fitur ini saya mencoba untuk menampilkan foto profile, nama, NIM, dan kontak saya sebagai halaman baru untuk Profile.
 Berikut Profilenya:
-(https://github.com/agamandika99/mdc_100_series/assets/117974350/3c10ed56-29cc-482c-8fb9-c5e850a53087)
+<img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/3c10ed56-29cc-482c-8fb9-c5e850a53087" width="200" height="420">
