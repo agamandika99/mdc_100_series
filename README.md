@@ -15,18 +15,20 @@ Saya mengubah judul dari Aplikasi menjadi "Agam Shop"
 ### Fitur Search
 Pada fitur ini, nantinya pengguna bisa mencari berdasarkan Nama Barang ataupun Harga Barang. Kemudian saya juga menambahkan kondisi ketika barang tidak ada akan diberi tahu bahwa barang/harga tersebut tidak ada. 
 Berikut hasilnya:
-(Mencari dengan Nama Barang)
+- Mencari dengan Nama Barang
 
-(Mencari dengan Harga Barang)
+- Mencari dengan Harga Barang
 
-(Mencari barang/harga yang tidak ada)
+- Mencari barang/harga yang tidak ada
 
 ### Fitur Filter
 Fitur ini saya membuatkan agar user mempermudah kembali untuk mencari kategori, dan juga sorting.
-(Filter Harga termurah ke termahal)
+- Filter Harga termurah ke termahal
 
-(Filter Harga termahal ke termurah)
+- Filter Harga termahal ke termurah
 
-(Filter Kategori)
+- Filter Kategori
 
-
+### Fitur Profile
+Pada fitur ini saya mencoba untuk menampilkan foto profile, nama, NIM, dan kontak saya sebagai halaman baru untuk Profile.
+Berikut Profilenya:
