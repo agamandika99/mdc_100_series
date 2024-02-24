@@ -7,6 +7,7 @@ Kelas: 2A-D3
 1. Modifikasi Halaman Utama
 Saya mengubah judul dari Aplikasi menjadi "Agam Shop"
 <img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/fe14af81-125c-45b2-a1e2-5e2c44ff2964" width="200" height="420">
+
 2. Modifikasi Halaman Barang
 - Saya memodifikasi nama logo menjadi "Agam Shop"
 - Menambahkan field untuk search
@@ -14,13 +15,16 @@ Saya mengubah judul dari Aplikasi menjadi "Agam Shop"
 - Menambahkan icon user untuk melihat Profile
 - Menambahkan tampilan menjadi seperti card(grid)
 <img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/8b6f7818-9c0d-41b7-aeef-49f39d4cef16" width="200" height="420">
+
 ### Fitur Search
 Pada fitur ini, nantinya pengguna bisa mencari berdasarkan Nama Barang ataupun Harga Barang. Kemudian saya juga menambahkan kondisi ketika barang tidak ada akan diberi tahu bahwa barang/harga tersebut tidak ada. 
 Berikut hasilnya:
 - Mencari dengan Nama Barang
 <img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/b1dd8f87-b427-47bf-846d-9482c7095933" width="200" height="420">
+
 - Mencari dengan Harga Barang
 <img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/0dcf3423-6108-4fa4-b426-a616e69f59a8" width="200" height="420">
+
 - Mencari barang/harga yang tidak ada
 <img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/bf7cd610-9a25-418f-92a8-3cf2e65d824c" width="200" height="420">
 
