@@ -55,4 +55,5 @@ Fitur ini saya membuatkan agar user mempermudah kembali untuk mencari kategori, 
 ### Fitur Profile
 Pada fitur ini saya mencoba untuk menampilkan foto profile, nama, NIM, dan kontak saya sebagai halaman baru untuk Profile.
 Berikut Profilenya:
+
 <img src="https://github.com/agamandika99/mdc_100_series/assets/117974350/3c10ed56-29cc-482c-8fb9-c5e850a53087" width="200" height="420">
