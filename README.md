@@ -1,6 +1,4 @@
-# MDC-100 Series of Codelabs
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Nama: Agam Andika
+NIM: 221511001
+Kelas: 2A-D3
+***
